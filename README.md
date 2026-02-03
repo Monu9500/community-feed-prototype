@@ -128,7 +128,7 @@ python manage.py test feed
 2. Connect your GitHub repository
 3. Set root directory to `frontend`
 4. Set environment variable:
-   - `VITE_API_URL`: Your backend URL (e.g., `https://your-app.railway.app/api`)
+   - `VITE_API_URL`: Your backend URL (`https://my-app.railway.app/api`)
 5. Deploy
 
 ## License
